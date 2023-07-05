@@ -1,7 +1,6 @@
 <template>
     <div class="max-container">
-			<div class="pagina-main">
-            pagina menu
+		<div class="pagina-main">
             <div class="pagina-title">
                <h1>VISITA NUESTRO LOCAL EN REAL PLAZA PURUCHUCO</h1>
             </div>          
@@ -11,7 +10,8 @@
                      <h2>Conoce nuestro local de Plaza Vea Ate y disfruta de todos sus servicios.</h2>
                      <div class="seccion-map">
                         <div class="map-container">
-                           <a href="https://www.googleadservices.com/pagead/aclk?nis=4&sa=L&ai=Ch10Jvd-iZMnVFKvE1sQP6oC1GPimyfhvtI_16_IQ3fLA7-IMEAEg7cqHO2DdBKAB6tuRmwLIAQmpAi16cOOZg5I-4AIAqAMByAPLBKoE3AJP0MVqxPgnY6eN5l7pofTZIOyQvCSbvrQbeAx0DuXnfPuw5xuTU4k7eT_UY51E0geeIcvvXf2CgVz9osWQlit1-q56NwJFjHARYKoH7bg5WYU42EJQoyOToDbgKurt6TYO1ZK_XJ31YiH8-1WhIcKgPLKpYxNY7X8soJq8uYM6RSuCE7iwu0RfsYTNK57cDDAJtNHW86uVjTkUao90Oa0JnsBY3O-pH12uDW9vjWaoyz9tDWNNtylKWta2E6oi9vKirBCNEaXCuQnLR9sCKtMT1DM6-HY7L_XGMLgFS73GYSvqoUZY3TIDiP5NfoyOjDid0TEYwIkbMiZ5l1ni2nEcJlcjaQqtxGip222-jTNuhPqpxqpP0q3Zi3E1plHZS7OjawmMghA9zDUEZXBPkXQTDsqH384bhHMzFbLPFLxw4gYYuDNXPHDdfxROomkKY4sjRkRch06slQ_ipoXABNXe0rKlBOAEAZAGAaAGLtIGDhD5wLJgGL-bruv3AygHgAf-o-7kAYgHAZAHAqgHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6SjsQKoB9XJG6gHpr4bqAeaBqgH89EbqAeW2BuoB6qbsQKoB4OtsQKoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQLYBwDACAHSCBcIABACGB0yAQA6B5_QgICAgARIvf3BOoAKA5gLAcgLAYAMAbgMAdoMEQoLEPDum-74yZqrzQESAgEDqg0CUEW4E4gE2BMK0BUB-BYBgBcB&ase=2&num=1&cid=CAQSQwBygQiD4G3-rA2XDJ5xD7nGbrqSCHG3OT03iN4pRur4qoN2yyUIhJDHexsn3GtYjd5ARMAMAPkJXVNEl-xbV-_lo_MYAQ&sig=AOD64_2o6Oce23xA1_aTxwYfMVvcE0kCfw&ae=1&ctype=77&nb=33&adurl=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2F%2F%40-11.9870644%2C-77.0733948%2C14z%2Fdata%3D!4m2!3m1!1s0x9105cf87eceba17f%3A0x333f32dec6621c39!11m3!1m1!1e4!5shttps%3A%252F%252Fgoogleads.g.doubleclick.net%252Fpagead%252Fconversion%252F%253Fai%253DCZxN_vd-iZMnVFKvE1sQP6oC1GPimyfhvtI_16_IQ3fLA7-IMEAEg7cqHO2DdBKAB6tuRmwLIAQmpAi16cOOZg5I-4AIAqAMByAPLBKoE5wJP0MVqxPgnY6eN5l7pofTZIOyQvCSbvrQbeAx0DuXnfPuw5xuTU4k7eT_UY51E0geeIcvvXf2CgVz9osWQlit1-q56NwJFjHARYKoH7bg5WYU42EJQoyOToDbgKurt6TYO1ZK_XJ31YiH8-1WhIcKgPLKpYxNY7X8soJq8uYM6RSuCE7iwu0RfsYTNK57cDDAJtNHW86uVjTkUao90Oa0JnsBY3O-pH12uDW9vjWaoyz9tDWNNtylKWta2E6oi9vKirBCNEaXCuQnLR9sCKtMT1DM6-HY7L_XGMLgFS73GYSvqoUZY3TIDiP5NfoyOjDid0TEYwIkbMiZ5l1ni2nEcJlcjaQqtxGip222-jTNuhPqpxqpP0q3Zi3E1plHZS7OjawmMghA9tDc-ZQAClkoNFj2tV38MDCEdHFnl03DYaRERVHR1TdHiKTZOrnjmJKlS53F-h0C4BV3Mr27kDMpDmBKI9-aeBsAE1d7SsqUE4AQBkAYBoAYugAf-o-7kAYgHAZAHAqgHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6SjsQKoB9XJG6gHpr4bqAeaBqgH89EbqAeW2BuoB6qbsQKoB4OtsQKoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQLYBwDSCBcIABACGB0yAQA6B5_QgICAgARIvf3BOrEJA-4OX8JrV2SACgOYCwHICwHgCwGADAG4DAHaDBEKCxDw7pvu-Mmaq80BEgIBA6oNAlBFuBOIBNgTCtAVAfgWAYAXAQ%2526sigh%253D6ilJ0rvlY8o%2526label%253D_AITNAME_%2526value%253D_AITVALUE_%3Fsource%3Dcad-loc%26dadc%3D580583770036"></a>                    </div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31215.529117122795!2d-76.97183685977821!3d-12.047570894102822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c6a67667e425%3A0x937f2051f03452a1!2sReal%20Plaza%20Puruchuco!5e0!3m2!1ses-419!2spe!4v1688446473293!5m2!1ses-419!2spe" width="800" height="700" style="border:0;"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
                         </div>
                      <div class="informacion">
                         <div class="title"><h3>INFORMACIÓN DE LA TIENDA</h3></div>
@@ -77,16 +77,14 @@
 .pagina-main {
     box-shadow: 0.2px 1px 5px #d9d9d9;
     background: #fff;
-    border-radius: 15px;
-    margin: 20px;
 }
 
 .pagina-main .pagina-title {
-    border-radius: 9px 9px 0 0;
-    padding: 10px 15px;
     background: #21388b;
     text-align: center;
-    margin: auto;
+    border-radius: 9px 9px 0 0;
+    padding: 10px 15px;
+    margin: auto;;
 
 }
 

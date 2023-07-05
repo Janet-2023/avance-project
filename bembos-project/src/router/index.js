@@ -182,7 +182,13 @@ const router = createRouter({
       name: 'mallarequipa',
       component: () => import('../components/SedeMallArequipa.vue')
     },
+    {
+      path: '/zonasreparto',
+      name:'zonasreparto',
+      component: () => import ('../views/ZonaReparto.vue')
+    },
 
+   
 
 
 
